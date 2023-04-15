@@ -1,0 +1,19 @@
+.course{
+  background: #eff6ff;
+  padding: 50px 100px;
+}
+
+.box {
+  background: #fff;
+  padding: 10px 20px;
+}
+
+.container h1 {
+  margin-bottom: 30px;
+}
+
+@media (max-width: 600px) {
+  .course {
+    padding: 50px 10px;
+  }
+}
